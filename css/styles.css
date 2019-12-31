@@ -41,8 +41,16 @@ body{
 }
 
 footer{
-    position:  absolute !important;
-    bottom: 0px !important;
+    width: 65%;
+    height: 75px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Helvetica , Arial;
+    background-color: rgb(50 , 50,50,0.70);
+    color: white;
+    margin: 0px auto;
+    margin-top: 50px;
+    line-height: 47px;
 }
 
 .menu{
@@ -159,3 +167,4 @@ form input[type="submit"]{
     color: #333;
     cursor: pointer;
 }
+
